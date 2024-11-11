@@ -54,7 +54,3 @@ output_frames/frame_0001.png
 output_frames/frame_0002.png
 ...
 ```
-
----
-
-Feel free to modify the details or example paths to match your own setup! This should give users a clear understanding of how to use the script and what to expect.
